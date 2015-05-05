@@ -1,3 +1,7 @@
+'''
+This program shows map that in where the mosquito has the red one.
+'''
+
 import pandas as pd
 import numpy as np
 
